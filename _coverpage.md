@@ -2,11 +2,10 @@
 
 # 小黑のGO语言手札
 
-> 学习无闻讲师《GO 编程基础》.
-
-* 记录了学习时候的笔记、代码
-* 学习Ladon等Go项目
-* 整理了大概，欢迎补充和完善。
+- 主要记录无闻讲师的《GO 编程基础》笔记
+- 记录了一些实验代码
+- 收集了一些不错的GO项目，Ladon、GoScan
+- 整理了大概，还原补充和完善 。
 
 [GitHub](https://github.com/Vxer-Lee/Golang_Handbook)
-[访问文档](#简介)
+[访问文档](/part/Introduction)
